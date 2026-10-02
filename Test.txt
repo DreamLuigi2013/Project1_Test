@@ -2,3 +2,5 @@ Hello, how are you?
 I am a Gittest file :)
 
 Changes test.
+
+Test # 2
